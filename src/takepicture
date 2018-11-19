@@ -1,0 +1,2 @@
+#!/bin/bash
+fswebcam -d v4l2:/dev/video0 -i 0 -c /home/pi/picturecollector/src/c525config.txt /home/pi/picturecollector/webcam/${1}.png
