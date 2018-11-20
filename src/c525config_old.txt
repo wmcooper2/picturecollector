@@ -8,5 +8,4 @@ no-underlay
 no-overlay
 png 9
 greyscale
-resolution 640x480 
-set Focus Auto=False
+resolution 1280x720
