@@ -11,7 +11,8 @@ pic_cmd     = "./takepicture"
 
 def cheese(count):
     """Take a picture. Returns None."""
-    subprocess.run([pic_cmd], int(count))
+    subprocess.run([pic_cmd, count])
+    print("cheese command == ", pic_cmd, int(count))
     upcount(count)
 
 def check():

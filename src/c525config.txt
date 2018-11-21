@@ -1,3 +1,20 @@
+set brightness=128
+set contrast=32
+set saturation=32
+set white_balance_temperature_auto=1
+set gain=16
+set power_line_frequency=2
+set white_balance_temperature=6396
+set sharpness=22
+set backlight_compensation=1
+set exposure_auto=3
+set exposure_absolute=128
+set exposure_auto_priority=1
+set pan_absolute=0
+set tilt_absolute=0
+set focus_absolute=0
+set focus_auto=1
+set zoom_absolute=1
 no-banner
 no-shadow
 no-title
@@ -8,5 +25,4 @@ no-underlay
 no-overlay
 png 9
 greyscale
-resolution 640x480 
-set Focus Auto=False
+resolution 1280x720 
