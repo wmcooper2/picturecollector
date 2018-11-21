@@ -1,0 +1,21 @@
+set brightness=50%
+set contrast=1%
+set saturation=40%
+set exposure=3%
+set exposure_auto=1
+set white_balance_temperature=44%
+set white_balance_temperature_auto=1
+set sharpness=9%
+set focus_absolute=25%
+set focus_auto=1
+no-banner
+no-shadow
+no-title
+no-subtitle
+no-timestamp
+no-info
+no-underlay
+no-overlay
+png 9
+greyscale
+resolution 1280x720 

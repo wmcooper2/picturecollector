@@ -1,6 +1,1 @@
-Notes:
-
-* High contrast ( 100%) 	= bad
-* Med  contrast (  50%)		= bad
-* Low  contrast (  10%)		= okay
-
+Settings are kept in a personal file on my home machine. Will upload later.
