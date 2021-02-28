@@ -125,20 +125,20 @@ Usage: `fswebcam [<options>] <filename> [[<options>] <filename> ... ]`
     
 The commands I want to use:  
 
-flag|long name|description
-:---|:---|:---
- -o,|--output `<filename>`      |Output the log to a file.
- -d,|--device `<name>`          |Sets the source to use.
- -i,|--input `<number/name>`    |Selects the input to use.
- -p,|--palette `<name>`         |Selects the palette format to use.
- -r,|--resolution `<size>`      |Sets the capture resolution.
- -s,|--set `<name>=<value>`     |Sets a control value.
-    |--flip `<direction>`       |Flips the image. (h, v)
-    |--crop `<size>[<offset>]`  |Crop a part of the image.
-    |--scale `<size>`           |Scales the image.
-    |--rotate `<angle>`         |Rotates the image in right angles.
-    |--greyscale                |Removes colour from the image.
-    |--no-banner                |Hides the banner.
+|flag|long name|description
+|:---|:---|:---
+| -o,|--output `<filename>`      |Output the log to a file.
+| -d,|--device `<name>`          |Sets the source to use.
+| -i,|--input `<number/name>`    |Selects the input to use.
+| -p,|--palette `<name>`         |Selects the palette format to use.
+| -r,|--resolution `<size>`      |Sets the capture resolution.
+| -s,|--set `<name>=<value>`     |Sets a control value.
+|    |--flip `<direction>`       |Flips the image. (h, v)
+|    |--crop `<size>[<offset>]`  |Crop a part of the image.
+|    |--scale `<size>`           |Scales the image.
+|    |--rotate `<angle>`         |Rotates the image in right angles.
+|    |--greyscale                |Removes colour from the image.
+|    |--no-banner                |Hides the banner.
 
 ### YouTube Notes
 [This video](https://www.raspberrypi.org/forums/viewtopic.php?t=142489) showed this info.
