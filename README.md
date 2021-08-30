@@ -140,8 +140,8 @@ The commands I want to use:
 |    |--greyscale                |Removes colour from the image.
 |    |--no-banner                |Hides the banner.
 
-### YouTube Notes
-[This video](https://www.raspberrypi.org/forums/viewtopic.php?t=142489) showed this info.
+### Notes
+[This Link](https://www.raspberrypi.org/forums/viewtopic.php?t=142489) showed the info below.  
 
 Setting|Values
 :---|:---
